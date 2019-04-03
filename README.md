@@ -22,3 +22,6 @@ python ascii_art.py
 3. Check output in your current directory, namely output.py
 
 
+************
+* Demo picture credits to pyret lang.
+
