@@ -1,13 +1,13 @@
 # ASCII-ART
-
+My implementation to convert image into ascii image.
 
 ## Author: Xiaochen Li
 1. Language: python
 2. Tools & Libraries: Ipython notebook, PIL(Image, ImageDraw, ImageFont), numpy
 
 ## DEMO
-<img src="Demo.png" alt="from" width="400"/>
-<img src="Demo.png" alt="to" width="400"/>
+<img src="pyret-logo.png" alt="from" width="400"/>
+<img src="output.jpeg" alt="to" width="400"/>
 
 ## Instruction 
 0. Download all files
